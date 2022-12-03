@@ -1,2 +1,1 @@
-# neko-atsume
-montserrat
+# nekoatsume2
